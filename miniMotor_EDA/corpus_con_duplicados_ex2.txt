@@ -1,0 +1,200 @@
+DOC:25
+procesamiento inteligencia consulta indice operador precision rendimiento indice insercion funcion automatico automatico tabla inteligencia consulta sistema rendimiento datos hash busqueda
+DOC:42
+corpus procesamiento memoria corpus recall hash artificial vector colision resultado resultado tabla vector tabla motor rendimiento memoria datos hash recall
+DOC:64
+datos artificial busqueda resultado consulta motor vector aprendizaje estructura tabla tabla vector datos procesamiento indexado rendimiento consulta colision palabra memoria
+DOC:64
+datos artificial busqueda resultado consulta motor vector aprendizaje estructura tabla tabla vector datos procesamiento indexado rendimiento consulta colision palabra memoria
+DOC:80
+rendimiento evaluacion artificial busqueda datos datos documento motor consulta precision resultado operador estructura memoria insercion busqueda documento insercion vector aprendizaje
+DOC:3
+motor artificial automatico indexado algoritmo automatico busqueda indexado memoria consulta procesamiento automatico indexado precision memoria funcion aprendizaje motor datos procesamiento
+DOC:43
+consulta sistema memoria operador operador operador procesamiento documento motor indice resultado artificial algoritmo funcion evaluacion recall indice tabla algoritmo memoria
+DOC:15
+motor automatico memoria estructura hash evaluacion operador algoritmo rendimiento indexado inteligencia palabra memoria estructura indice insercion rendimiento inteligencia algoritmo resultado
+DOC:28
+corpus precision busqueda inteligencia documento sistema precision procesamiento motor algoritmo sistema funcion busqueda palabra operador funcion busqueda recall palabra consulta
+DOC:71
+documento artificial rendimiento palabra tabla busqueda evaluacion colision inteligencia vector estructura datos rendimiento funcion estructura rendimiento memoria algoritmo recall algoritmo
+DOC:24
+algoritmo indexado indexado documento insercion datos automatico sistema motor artificial rendimiento insercion rendimiento automatico rendimiento evaluacion colision sistema operador indice
+DOC:65
+artificial algoritmo sistema indexado motor memoria evaluacion resultado consulta colision datos consulta recall sistema procesamiento colision precision documento procesamiento palabra
+DOC:6
+inteligencia motor sistema insercion indexado memoria busqueda tabla tabla precision resultado estructura vector aprendizaje evaluacion resultado indexado memoria funcion datos
+DOC:34
+insercion documento recall busqueda indice funcion palabra automatico vector tabla tabla operador recall documento funcion funcion indice precision automatico automatico
+DOC:75
+insercion documento algoritmo memoria documento funcion rendimiento sistema consulta artificial resultado consulta recall indexado recall precision algoritmo memoria consulta corpus
+DOC:51
+algoritmo sistema insercion recall consulta procesamiento aprendizaje busqueda operador tabla memoria memoria colision inteligencia palabra estructura busqueda insercion algoritmo indice
+DOC:12
+recall colision insercion indice artificial colision vector operador datos precision algoritmo aprendizaje colision sistema estructura busqueda resultado estructura colision funcion
+DOC:9
+algoritmo funcion automatico evaluacion operador algoritmo estructura sistema automatico busqueda precision colision hash palabra corpus aprendizaje algoritmo rendimiento rendimiento hash
+DOC:5
+insercion estructura colision resultado procesamiento automatico recall vector algoritmo artificial busqueda funcion palabra rendimiento artificial procesamiento recall vector recall operador
+DOC:36
+memoria evaluacion corpus algoritmo datos documento indice colision indexado busqueda sistema sistema precision vector hash algoritmo artificial rendimiento documento estructura
+DOC:16
+evaluacion insercion operador colision datos busqueda documento resultado palabra operador resultado automatico estructura busqueda palabra resultado rendimiento funcion datos evaluacion
+DOC:1
+memoria inteligencia indexado automatico indice sistema resultado algoritmo rendimiento inteligencia automatico vector inteligencia aprendizaje memoria insercion automatico colision corpus inteligencia
+DOC:18
+palabra automatico inteligencia aprendizaje documento operador recall indexado memoria procesamiento recall insercion precision busqueda recall aprendizaje precision estructura busqueda tabla
+DOC:39
+indice funcion indice automatico insercion evaluacion tabla sistema busqueda recall funcion estructura datos insercion insercion algoritmo recall evaluacion tabla busqueda
+DOC:74
+consulta palabra operador documento busqueda procesamiento resultado indice resultado procesamiento recall hash hash evaluacion vector corpus motor algoritmo funcion corpus
+DOC:22
+rendimiento funcion aprendizaje sistema hash estructura memoria inteligencia indice palabra busqueda rendimiento aprendizaje precision vector artificial estructura operador tabla corpus
+DOC:75
+insercion documento algoritmo memoria documento funcion rendimiento sistema consulta artificial resultado consulta recall indexado recall precision algoritmo memoria consulta corpus
+DOC:61
+operador estructura colision vector procesamiento documento consulta documento aprendizaje vector busqueda vector evaluacion consulta motor corpus corpus estructura datos aprendizaje
+DOC:29
+rendimiento procesamiento vector consulta operador corpus busqueda precision memoria corpus motor tabla indice precision indexado corpus insercion hash tabla motor
+DOC:4
+recall memoria insercion sistema operador palabra automatico inteligencia documento indexado automatico precision resultado documento memoria procesamiento evaluacion tabla estructura estructura
+DOC:27
+recall consulta memoria palabra memoria indice precision aprendizaje inteligencia datos busqueda sistema insercion automatico sistema palabra aprendizaje funcion indice busqueda
+DOC:68
+insercion documento corpus hash operador procesamiento precision recall tabla indexado procesamiento vector precision corpus corpus datos estructura memoria resultado insercion
+DOC:34
+insercion documento recall busqueda indice funcion palabra automatico vector tabla tabla operador recall documento funcion funcion indice precision automatico automatico
+DOC:4
+recall memoria insercion sistema operador palabra automatico inteligencia documento indexado automatico precision resultado documento memoria procesamiento evaluacion tabla estructura estructura
+DOC:23
+sistema recall colision precision resultado funcion motor vector corpus insercion resultado indice hash estructura estructura memoria indice vector funcion indexado
+DOC:76
+sistema precision datos funcion palabra artificial algoritmo palabra consulta procesamiento colision funcion sistema precision procesamiento indice colision vector procesamiento memoria
+DOC:73
+aprendizaje palabra tabla sistema funcion corpus artificial palabra tabla indexado artificial aprendizaje artificial precision vector recall insercion estructura indice aprendizaje
+DOC:46
+recall indexado recall memoria indexado insercion sistema indice artificial funcion hash evaluacion indexado palabra funcion consulta memoria funcion sistema motor
+DOC:62
+funcion indice memoria aprendizaje palabra hash indice indice tabla evaluacion insercion memoria funcion operador funcion datos algoritmo tabla documento indexado
+DOC:26
+funcion inteligencia procesamiento insercion inteligencia memoria datos tabla artificial procesamiento automatico documento indice procesamiento indice corpus estructura algoritmo inteligencia insercion
+DOC:6
+inteligencia motor sistema insercion indexado memoria busqueda tabla tabla precision resultado estructura vector aprendizaje evaluacion resultado indexado memoria funcion datos
+DOC:2
+corpus sistema consulta datos precision consulta algoritmo algoritmo operador funcion corpus motor insercion recall procesamiento insercion corpus funcion operador colision
+DOC:20
+motor documento documento rendimiento rendimiento indexado busqueda rendimiento precision sistema evaluacion funcion documento insercion inteligencia indexado rendimiento colision memoria tabla
+DOC:20
+motor documento documento rendimiento rendimiento indexado busqueda rendimiento precision sistema evaluacion funcion documento insercion inteligencia indexado rendimiento colision memoria tabla
+DOC:79
+insercion funcion algoritmo documento recall motor vector palabra corpus algoritmo recall memoria tabla sistema consulta resultado palabra memoria aprendizaje precision
+DOC:30
+indexado operador corpus algoritmo resultado estructura tabla funcion procesamiento inteligencia operador aprendizaje automatico palabra consulta resultado motor indexado inteligencia precision
+DOC:33
+recall insercion sistema busqueda resultado hash resultado colision hash tabla aprendizaje artificial precision hash corpus rendimiento algoritmo funcion artificial datos
+DOC:69
+busqueda operador operador indexado indice indexado evaluacion datos tabla precision automatico tabla consulta inteligencia artificial vector estructura recall procesamiento inteligencia
+DOC:54
+evaluacion algoritmo algoritmo funcion artificial indexado funcion insercion documento recall vector tabla funcion algoritmo motor operador memoria palabra motor automatico
+DOC:49
+sistema colision corpus precision busqueda estructura inteligencia resultado insercion evaluacion automatico artificial corpus evaluacion documento rendimiento datos precision documento hash
+DOC:67
+operador resultado artificial consulta indice busqueda procesamiento datos corpus palabra corpus datos tabla rendimiento sistema estructura tabla indexado indice tabla
+DOC:55
+tabla automatico consulta tabla rendimiento algoritmo rendimiento memoria procesamiento datos evaluacion algoritmo corpus algoritmo algoritmo indice corpus insercion colision insercion
+DOC:47
+memoria operador funcion evaluacion memoria documento tabla colision motor algoritmo indexado indice aprendizaje busqueda insercion recall vector evaluacion corpus estructura
+DOC:37
+algoritmo precision operador colision precision recall sistema indexado artificial indice hash memoria evaluacion aprendizaje colision memoria hash algoritmo consulta documento
+DOC:74
+consulta palabra operador documento busqueda procesamiento resultado indice resultado procesamiento recall hash hash evaluacion vector corpus motor algoritmo funcion corpus
+DOC:53
+indice vector indice hash palabra vector busqueda vector precision artificial palabra resultado vector tabla precision artificial hash rendimiento sistema hash
+DOC:11
+recall evaluacion operador datos hash automatico rendimiento artificial procesamiento recall estructura palabra tabla rendimiento precision recall insercion motor datos indexado
+DOC:70
+evaluacion operador memoria palabra datos indexado corpus sistema datos motor tabla inteligencia algoritmo estructura operador insercion motor vector busqueda indexado
+DOC:63
+artificial vector documento tabla artificial corpus algoritmo operador operador funcion vector tabla insercion palabra resultado tabla corpus memoria documento hash
+DOC:77
+estructura busqueda indice hash procesamiento insercion estructura estructura tabla recall indexado evaluacion hash busqueda operador tabla resultado tabla algoritmo sistema
+DOC:67
+operador resultado artificial consulta indice busqueda procesamiento datos corpus palabra corpus datos tabla rendimiento sistema estructura tabla indexado indice tabla
+DOC:40
+corpus hash motor vector indexado operador recall estructura insercion procesamiento evaluacion vector resultado operador indexado palabra rendimiento precision vector corpus
+DOC:56
+documento busqueda consulta memoria indice resultado motor recall funcion consulta colision automatico memoria automatico busqueda operador procesamiento indice colision corpus
+DOC:50
+algoritmo resultado datos tabla sistema indice precision rendimiento indice datos rendimiento algoritmo hash rendimiento precision inteligencia procesamiento tabla precision operador
+DOC:38
+sistema operador documento sistema indexado precision corpus insercion tabla documento documento recall rendimiento vector recall memoria insercion rendimiento aprendizaje consulta
+DOC:7
+indice insercion palabra vector inteligencia documento inteligencia evaluacion resultado corpus documento artificial resultado precision algoritmo hash algoritmo indice indice busqueda
+DOC:13
+rendimiento colision vector precision automatico motor estructura procesamiento sistema indexado documento indice algoritmo tabla recall recall algoritmo automatico estructura evaluacion
+DOC:73
+aprendizaje palabra tabla sistema funcion corpus artificial palabra tabla indexado artificial aprendizaje artificial precision vector recall insercion estructura indice aprendizaje
+DOC:32
+estructura busqueda aprendizaje busqueda insercion indice aprendizaje automatico hash motor recall vector indexado busqueda aprendizaje automatico aprendizaje inteligencia insercion indexado
+DOC:58
+indice automatico rendimiento consulta procesamiento motor palabra colision algoritmo artificial datos funcion sistema indexado memoria hash tabla indexado indice busqueda
+DOC:35
+memoria datos aprendizaje algoritmo inteligencia tabla colision indexado automatico motor motor tabla sistema evaluacion palabra funcion memoria precision rendimiento insercion
+DOC:16
+evaluacion insercion operador colision datos busqueda documento resultado palabra operador resultado automatico estructura busqueda palabra resultado rendimiento funcion datos evaluacion
+DOC:38
+sistema operador documento sistema indexado precision corpus insercion tabla documento documento recall rendimiento vector recall memoria insercion rendimiento aprendizaje consulta
+DOC:31
+algoritmo motor hash indice sistema memoria hash palabra algoritmo automatico sistema documento colision hash vector rendimiento indice documento motor indexado
+DOC:22
+rendimiento funcion aprendizaje sistema hash estructura memoria inteligencia indice palabra busqueda rendimiento aprendizaje precision vector artificial estructura operador tabla corpus
+DOC:14
+resultado resultado procesamiento datos operador motor funcion recall memoria inteligencia corpus indexado memoria precision datos busqueda busqueda insercion indexado funcion
+DOC:72
+vector vector recall insercion procesamiento hash memoria recall estructura inteligencia palabra consulta motor funcion palabra indice documento artificial insercion corpus
+DOC:66
+corpus sistema corpus indice sistema vector memoria rendimiento consulta consulta aprendizaje automatico precision hash automatico datos algoritmo operador busqueda palabra
+DOC:48
+corpus hash corpus indice consulta busqueda precision datos precision operador motor recall recall corpus consulta palabra inteligencia insercion tabla sistema
+DOC:17
+operador recall corpus resultado inteligencia indice documento evaluacion corpus operador corpus indexado palabra busqueda resultado operador automatico corpus tabla documento
+DOC:52
+automatico automatico resultado documento datos evaluacion inteligencia operador datos busqueda estructura aprendizaje memoria inteligencia inteligencia palabra estructura documento aprendizaje artificial
+DOC:45
+estructura estructura inteligencia corpus evaluacion sistema datos tabla consulta colision memoria rendimiento estructura operador aprendizaje procesamiento hash estructura colision colision
+DOC:44
+resultado tabla sistema evaluacion artificial palabra indexado procesamiento datos vector insercion palabra aprendizaje algoritmo resultado funcion estructura evaluacion datos tabla
+DOC:41
+indexado indexado colision recall hash datos insercion consulta insercion insercion tabla documento aprendizaje sistema colision estructura palabra artificial indice motor
+DOC:19
+motor documento funcion vector procesamiento colision estructura motor inteligencia evaluacion insercion motor indice sistema consulta algoritmo memoria documento documento operador
+DOC:78
+operador documento consulta artificial insercion resultado operador motor evaluacion memoria palabra vector busqueda automatico datos palabra inteligencia insercion procesamiento corpus
+DOC:44
+resultado tabla sistema evaluacion artificial palabra indexado procesamiento datos vector insercion palabra aprendizaje algoritmo resultado funcion estructura evaluacion datos tabla
+DOC:27
+recall consulta memoria palabra memoria indice precision aprendizaje inteligencia datos busqueda sistema insercion automatico sistema palabra aprendizaje funcion indice busqueda
+DOC:60
+operador corpus algoritmo operador artificial inteligencia evaluacion operador colision colision motor rendimiento busqueda inteligencia documento corpus funcion corpus evaluacion algoritmo
+DOC:62
+funcion indice memoria aprendizaje palabra hash indice indice tabla evaluacion insercion memoria funcion operador funcion datos algoritmo tabla documento indexado
+DOC:54
+evaluacion algoritmo algoritmo funcion artificial indexado funcion insercion documento recall vector tabla funcion algoritmo motor operador memoria palabra motor automatico
+DOC:57
+operador recall corpus funcion memoria inteligencia evaluacion corpus indexado aprendizaje motor documento consulta inteligencia resultado insercion rendimiento datos funcion inteligencia
+DOC:21
+tabla automatico hash evaluacion palabra aprendizaje algoritmo vector funcion consulta corpus indice sistema automatico aprendizaje inteligencia estructura hash operador algoritmo
+DOC:8
+hash insercion estructura resultado rendimiento automatico insercion motor automatico documento recall memoria tabla vector busqueda automatico consulta colision automatico automatico
+DOC:80
+rendimiento evaluacion artificial busqueda datos datos documento motor consulta precision resultado operador estructura memoria insercion busqueda documento insercion vector aprendizaje
+DOC:10
+motor sistema recall algoritmo rendimiento consulta operador estructura aprendizaje tabla rendimiento indexado estructura evaluacion tabla operador insercion artificial recall operador
+DOC:59
+rendimiento indexado sistema hash sistema artificial procesamiento colision inteligencia documento automatico datos estructura documento inteligencia indice aprendizaje procesamiento motor vector
+DOC:39
+indice funcion indice automatico insercion evaluacion tabla sistema busqueda recall funcion estructura datos insercion insercion algoritmo recall evaluacion tabla busqueda
+DOC:52
+automatico automatico resultado documento datos evaluacion inteligencia operador datos busqueda estructura aprendizaje memoria inteligencia inteligencia palabra estructura documento aprendizaje artificial
+DOC:11
+recall evaluacion operador datos hash automatico rendimiento artificial procesamiento recall estructura palabra tabla rendimiento precision recall insercion motor datos indexado

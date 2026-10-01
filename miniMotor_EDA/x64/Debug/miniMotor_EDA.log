@@ -1,0 +1,24 @@
+﻿  main.cpp
+  miniMotor.cpp
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(56,121): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(56,121): warning C4244:         with
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(56,121): warning C4244:         [
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(56,121): warning C4244:             _Rep=__int64
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(56,121): warning C4244:         ]
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(57,120): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(57,120): warning C4244:         with
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(57,120): warning C4244:         [
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(57,120): warning C4244:             _Rep=__int64
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(57,120): warning C4244:         ]
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(104,121): warning C4244: '=': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(104,121): warning C4244:         with
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(104,121): warning C4244:         [
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(104,121): warning C4244:             _Rep=__int64
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(104,121): warning C4244:         ]
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(311,21): warning C4244: 'inicializando': conversión de '_Rep' a 'long'; posible pérdida de datos
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(311,21): warning C4244:         with
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(311,21): warning C4244:         [
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(311,21): warning C4244:             _Rep=__int64
+C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\miniMotor.cpp(311,21): warning C4244:         ]
+  Generando código...
+  miniMotor_EDA.vcxproj -> C:\Users\ainho\OneDrive\Escritorio\miniMotor_EDA\x64\Debug\miniMotor_EDA.exe

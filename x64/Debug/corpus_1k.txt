@@ -1,0 +1,45 @@
+DOC:1
+inteligencia artificial aprendizaje datos modelos prediccion analisis sistemas informacion algoritmos busqueda optimizacion
+
+DOC:2
+aprendizaje automatico redes neuronales procesamiento datos inteligencia modelos lenguaje entrenamiento patrones
+
+DOC:3
+big data almacenamiento distribuido procesamiento paralelo datos eficiencia escalabilidad sistemas computacionales
+
+DOC:4
+algoritmos estructuras datos complejidad eficiencia busqueda indexacion tablas hash colisiones rendimiento
+
+DOC:5
+analisis estadistico probabilidad modelos matematicos prediccion inferencia datos experimentos validacion
+
+DOC:6
+inteligencia artificial aprendizaje datos modelos prediccion analisis sistemas informacion algoritmos busqueda optimizacion
+
+DOC:7
+aprendizaje automatico redes neuronales procesamiento datos inteligencia modelos lenguaje entrenamiento patrones
+
+DOC:8
+big data almacenamiento distribuido procesamiento paralelo datos eficiencia escalabilidad sistemas computacionales
+
+DOC:9
+algoritmos estructuras datos complejidad eficiencia busqueda indexacion tablas hash colisiones rendimiento
+
+DOC:10
+analisis estadistico probabilidad modelos matematicos prediccion inferencia datos experimentos validacion
+
+DOC:11
+inteligencia artificial aprendizaje datos modelos prediccion analisis sistemas informacion algoritmos busqueda optimizacion
+
+DOC:12
+aprendizaje automatico redes neuronales procesamiento datos inteligencia modelos lenguaje entrenamiento patrones
+
+DOC:13
+big data almacenamiento distribuido procesamiento paralelo datos eficiencia escalabilidad sistemas computacionales
+
+DOC:14
+algoritmos estructuras datos complejidad eficiencia busqueda indexacion tablas hash colisiones rendimiento
+
+DOC:15
+analisis estadistico probabilidad modelos matematicos prediccion inferencia datos experimentos validacion
+
